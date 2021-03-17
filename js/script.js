@@ -1,7 +1,6 @@
 "use strict";
 
-const category = 'toys';
+let incr = 10,
+    decr = 10;
 
-const user = "Ivan";
-
-alert(`Hello, ${user}`);
+console.log(5%2);
